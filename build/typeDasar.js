@@ -1,0 +1,21 @@
+"use strict";
+var nama = "Wildan";
+nama = "ALi";
+var umur;
+umur = 20;
+var isHandsome;
+isHandsome = true;
+var heroes = "ali wildan";
+heroes = 20;
+var array;
+array = ["ali", "wildan"];
+var array2;
+array2 = [1, 2];
+var array3;
+array3 = [1, "ali", {}];
+var biodata;
+biodata = ["wildan", 1];
+var phone;
+phone = 1234;
+phone = "1234";
+//# sourceMappingURL=typeDasar.js.map
